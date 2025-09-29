@@ -1,0 +1,1 @@
+When creature receives a successful Accuracy Check on a Attack from [[Weapons]] or [[Skills]] they can have chance to react and try to dodge the attack.

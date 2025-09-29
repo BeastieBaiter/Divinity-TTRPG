@@ -1,0 +1,1 @@
+<!Personal Note: Lucky charm and Telekinesis (From Civil Abilities) will become talents ->
