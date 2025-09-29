@@ -1,4 +1,4 @@
-There are 6 Attributes in [[Divinity]], 3 that represent your [[#Physical Attributes]] and 3 that represent your [[#Mental Attributes]].
+There are 6 Attributes in [[README]], 3 that represent your [[#Physical Attributes]] and 3 that represent your [[#Mental Attributes]].
 
 All characters begin with a base 0 points in each attribute. Characters at level 1 have a Pool of 9 attribute points to distribute between each attribute. At level 1, players can only have 1 attribute with a value of 3.
 
