@@ -6,7 +6,7 @@ Unlike most RPGs Proficiencies are not tied to any particular [[Attributes|Attri
 
 Guidelines and Rules for determining the Attribute and Proficiency for a [[Proficiency Check]] are outlined in the [[Checks and Saves]] page.
 
-Proficiencies are split into 2 main categories. [[#Combat Proficiencies]], which is then divided into 3 sub-categories: [[#Weapon Proficiencies]], [[#Defense Proficiencies]] and [[#Skill Proficiencies]]. And [[#Civil Proficiencies]], which are also  divided into 3 sub-categories: [[#Personality Proficiencies]], [[#Craftmanship Proficiencies]] and [[#Cunning Proficiencies]]. These 2 main categories, allow players to tailor their character's strengths to their preferred playstyle in both combat and in roleplay.
+Proficiencies are split into 2 main categories. [[#Combat Proficiencies]], which is then divided into 3 sub-categories: [[#Weapon Proficiencies]], [[#Defence Proficiencies]] and [[#Skill Proficiencies]]. And [[#Civil Proficiencies]], which are also  divided into 3 sub-categories: [[#Personality Proficiencies]], [[#Craftmanship Proficiencies]] and [[#Cunning Proficiencies]]. These 2 main categories, allow players to tailor their character's strengths to their preferred playstyle in both combat and in roleplay.
 
 Players acquire 2 combat proficiency points at Level 1 and 1 point per level beyond it. 
 Player acquire 2 civil proficiency points at Level 1 and 1 point at every 3rd level. 
@@ -35,7 +35,7 @@ Provides the following effect:
 Increases damage and [[Hit Ranges & Critical Hits]] with [[Ranged Weapons]] (bows and crossbows).
 Provides the following effect:
 - +1 to [[Damage]] and -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Ranged Weapons]], and +1 to any Ranged [[Proficiency Check]] per point.
-### Defense Proficiencies
+### Defence Proficiencies
 ---
 #### Leadership
 Boosts [[Dodge Chance]] and [[Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**

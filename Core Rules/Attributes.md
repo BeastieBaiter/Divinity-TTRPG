@@ -1,6 +1,6 @@
 There are 6 Attributes in [[README]], 3 that represent your [[#Physical Attributes]] and 3 that represent your [[#Mental Attributes]].
 
-All characters begin with a base 0 points in each attribute. Characters at level 1 have a Pool of 9 attribute points to distribute between each attribute. At level 1, players can only have 1 attribute with a value of 3.
+All characters begin with a base 0 points in each attribute. Characters at level 1 has a Pool of 9 attribute points to distribute between each attribute. At level 1, players can only have 1 attribute with a value of 3.
 
 Beyond Level 1 Players acquire 2 attributes point per level (See the [[Level Up Table]] for more details). A single attribute can achieve a maximum of 20 points. This maximum can be further augmented through equipment.
 
