@@ -5,7 +5,7 @@ Every creature has **base DC of 2**, however this can be increase with any bonus
 
 So the final formula looks like this: 
 
-<p style="text-align:center;"><b>**DC = 2 + bonuses</b></p>
+<p style="text-align:center;"><b>DC = 2 + bonuses</b></p>
 
 ## Rule Option #2: Contested Roll
 When creature a makes a Attack from [[Weapons]] or [[Skills]], they must make Accuracy Check (AC) roll (d20) against the defenders Dodge Chance (DC) roll. A attack is considered successful if the AC roll is equal or higher to the DC roll: 
