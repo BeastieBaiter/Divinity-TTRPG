@@ -1,4 +1,3 @@
-___
 Defences can broke down into 3 categories, Physical and Magical Armor that is affect by the attributes of the players [[Gear#Armor|armor]] and [[Skills]] and Elemental Resistances which can be affected by [[Gear]], [[Skills]], [[Proficiencies]], [[Talents]] and [[Status Effects]].
 ## Physical Armor
 ___
