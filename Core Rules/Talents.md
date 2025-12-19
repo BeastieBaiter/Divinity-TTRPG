@@ -1,1 +1,1 @@
-<!Personal Note: Lucky charm and Telekinesis (From Civil Abilities) will become talents ->
+<!Personal Note: Telekinesis (From Civil Abilities) will become a talent with multiple levels->

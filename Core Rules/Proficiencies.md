@@ -38,12 +38,12 @@ Provides the following effect:
 ### Defence Proficiencies
 ---
 #### Leadership
-Boosts [[Dodge Chance]] and [[Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**
+Boosts [[Dodge Chance]] and [[Defences#Elemental Resistances|Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**
 Provide the following effects to all allies within a **8 meters radius**:
  - #TODO 
  <!Note: Re-visit once Dodge Class and Elemental Resistances are finished->
 #### Perseverance 
-Restores [[Magic Armor]] and [[Physical Armor]] after being affected by certain [[Status Effects]]
+Restores [[Defences#Magic Armor|Magic Armor]] and [[Defences#Physical Armor|Physical Armor]] after being affected by certain [[Status Effects]]
 Provides the following effects:
 - #TODO
 <!Note: Re-visit once Magic Armor and Physical Armor are finished->
@@ -51,6 +51,7 @@ Provides the following effects:
 Reflects received [[Damage]] to the attacker. Does not reduce damage received. Reflected [[Damage]] does not stack with other reflected [[Damage]].
 Provides the following effects:
 -  +1 Reflected [[Damage]] per point.
+-  **Multiple sources of Reflected [[Damage]] don't stack! Only the higher score from the multiple sources of Reflected [[Damage]], will count.**
 ### Skill Proficiencies
 ---
 #### Warfare
@@ -65,6 +66,9 @@ Provides the following effects:
 #### Summoning
 ## Civil Proficiencies
 ---
+### Aura Proficiencies
+___
+#### Lucky Charm:
 ### Personality Proficiencies
 ___
 #### Batering:
