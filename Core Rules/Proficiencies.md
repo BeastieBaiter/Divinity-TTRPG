@@ -30,23 +30,26 @@ Increases Damage and [[Dodge Chance]] when dual-wielding one-handed weapons.
 Provides the following effect:
 - +1 to [[Damage]] and to the [[Dodge Chance]], when dual-wielding [[One-Handed Weapon|One-Handed Weapons]], and to any Dual Wielding [[Proficiency Check]] per point.
 #TODO 
-<!Note: +1 to Dodge Class per point might be to much, might have to be per 4 points->
+<!Note: +1 to Dodge Chance per point might be to much, might have to be per 4 points->
 #### Ranged:
 Increases damage and [[Hit Ranges & Critical Hits]] with [[Ranged Weapons]] (bows and crossbows).
 Provides the following effect:
-- +1 to [[Damage]] and -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Ranged Weapons]], and +1 to any Ranged [[Proficiency Check]] per point.
+- +1 to [[Damage]] and any Ranged [[Proficiency Check]] per point.
+- -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Ranged Weapons]], per point.
 ### Defence Proficiencies
 ---
 #### Leadership
 Boosts [[Dodge Chance]] and [[Defences#Elemental Resistances|Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**
 Provide the following effects to all allies within a **8 meters radius**:
- - #TODO 
- <!Note: Re-visit once Dodge Class and Elemental Resistances are finished->
+ - +2 to [[Dodge Chance]] per point.
+ - +1 to all [[Defences#Elemental Resistances|Elemental Resistances]] per point.
+<!Note: +2 to Dodge Chance per point might be to much, might have to be per 4 points
+		+1 to all Elemental Resistances per point might be to little, might have to be +2 or +3 ->
 #### Perseverance 
-Restores [[Defences#Magic Armor|Magic Armor]] and [[Defences#Physical Armor|Physical Armor]] after being affected by certain [[Status Effects]]
+Restores [[Defences#Magic Armor|Magic Armor]] after recovering from [[Status Effects#Frozen|Frozen]] or [[Status Effects#Stunned|Stunned]], and [[Defences#Physical Armor|Physical Armor]] after recovering from [[Status Effects#Knocked Down|Knocked Down]] or [[Status Effects#Petrified|Petrified]].
 Provides the following effects:
-- #TODO
-<!Note: Re-visit once Magic Armor and Physical Armor are finished->
+- Restores +3 armor per point. Can not restore higher then the armors max amount.
+<!Note: Needs testing->
 #### Retribution
 Reflects received [[Damage]] to the attacker. Does not reduce damage received. Reflected [[Damage]] does not stack with other reflected [[Damage]].
 Provides the following effects:
