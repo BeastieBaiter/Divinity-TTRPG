@@ -5,7 +5,6 @@ Divinity is a TTRPG inspired by the games from the Divinity Original Sin Saga.
 - ### Character Statistics:
 	- #### [[Damage]]
 	- #### [[Hit Ranges & Critical Hits]]
-	- #### [[Critical Hit Multiplier]]
 	- #### [[Accuracy Bonus]]
 	- #### [[Dodge Chance]]
 	- #### [[Defences]]

@@ -1,8 +1,8 @@
 Proficiencies represent a creature’s ability to perform certain actions. 
 
-For example I'm player might want to negotiate the price of a certain item with vendor, in this scenario they could use the [[#Bartering]] Skill to convince the vendor. 
+For example a player might want to negotiate the price of a certain item with vendor, in this scenario they could use the [[#Bartering]] Skill to convince the vendor. 
 
-Unlike most RPGs Proficiencies are not tied to any particular [[Attributes|Attribute]] ([[Attributes#Strength (STR)|Strength]], [[Attributes#Finesse (FIN)|Finesse]], [[Attributes#Constitution (CON)|Constitution]], [[Attributes#Intelligence (INT)|Intelligence]], [[Attributes#Memory (MEM)|Memory]] or [[Attributes#Wits (WIT)|Wits]]).  Which Attribute you use for a given Proficiency Check depends on how you’re using the Skill. Its put to the Players and GM to discuss and get creative with Attributes for Checks, but the GM always retains the final say to decide which Attribute players use for the Check.
+Unlike most RPGs Proficiencies are not tied to any particular [[Attributes|Attribute]] ([[Attributes#Strength (STR)|Strength]], [[Attributes#Finesse (FIN)|Finesse]], [[Attributes#Constitution (CON)|Constitution]], [[Attributes#Intelligence (INT)|Intelligence]], [[Attributes#Memory (MEM)|Memory]] or [[Attributes#Wits (WIT)|Wits]]).  Which Attribute you use for a given Proficiency Check depends on how you’re performing the Proficiency. Its up to the Players and GM to discuss and get creative with Attributes for Checks, but the GM always retains the final say to decide which Attribute players use for the Check.
 
 Guidelines and Rules for determining the Attribute and Proficiency for a [[Proficiency Check]] are outlined in the [[Checks and Saves]] page.
 
@@ -22,9 +22,9 @@ Increases damage and accuracy with a [[One-Handed Weapon]] (dagger, sword, axe, 
 Provides the following effect:
 - +1 to [[Damage]], to the Hit Roll, with a [[One-Handed Weapon]] with a [[Shield]] or empty off-hand, and to any Single-Handed [[Proficiency Check]] per point.
 #### Two-Handed:
-Increases the damage a character deals with a [[Two-Handed Weapon]] (two-handed swords, maces, axes, spears and staves), and increases [[Critical Hit Multiplier]] while wielding them.
+Increases the damage a character deals with a [[Two-Handed Weapon]] (two-handed swords, maces, axes, spears and staves), and increases [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]] while wielding them.
 Provides the following effect:
-- +1 to [[Damage]], to the [[Critical Hit Multiplier]], with a [[Two-Handed Weapon]], and to any Two-Handed [[Proficiency Check]] per point.
+- +1 to [[Damage]], to the [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], with a [[Two-Handed Weapon]], and to any Two-Handed [[Proficiency Check]] per point.
 #### Dual Wielding:
 Increases Damage and [[Dodge Chance]] when dual-wielding one-handed weapons.
 Provides the following effect:
@@ -58,7 +58,15 @@ Provides the following effects:
 ### Skill Proficiencies
 ---
 #### Warfare
+Required proficiency for [[Skills#Warfare|Warfare Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Warfare|Warfare Skills]].
+It also provides the following passive effects:
+- +1 to all physical damage dealt by the character, per point.
 #### Scoundrel
+Required proficiency for [[Skills#Scoundrel|Scoundrel Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Warfare|Scoundrel Skills]].
+It also provides the following passive effects:
+- +1 to Movement, per 3 points.
+- +1 to [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], per 2 points
+<!Note: Needs testing->
 ### Ranger
 #### Polymorph
 #### Aerokinetic

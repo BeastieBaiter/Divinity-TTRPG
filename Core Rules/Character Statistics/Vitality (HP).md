@@ -18,7 +18,7 @@ You can also view it in the following table:
 | Level 10 | 110                | Level 20 | 210                |
 
 
-You can then apply you [[Attributes#Constitution (CON)|CON]] modifier to determine your Final Vitality HP:
+You can then apply your [[Attributes#Constitution (CON)|CON]] modifier to determine your Final Vitality HP:
 
 <center> Final Vitality (HP) = Base Vitality HP + (Level * CON * 3 )</center>
 
