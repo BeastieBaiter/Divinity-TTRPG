@@ -70,7 +70,9 @@ It also provides the following passive effects:
 ### Ranger
 Required proficiency for [[Skills#Ranger|Ranger Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Ranger|Ranger Skills]].
 It also provides the following passive effects:
-- 
+- Improves the bonuses from [[Status Effects#High Ground|High Ground Status Effect]] by 1, and Reduces de the penalties from [[Status Effects#Low Ground|Low Ground Status Effect]] by 1, per point
+- +1 to all ranged damage at least 5 meters away from the target, per point.
+<!Note: Needs testing ->
 #### Polymorph
 Required proficiency for [[Skills#Polymorph|Polymorph Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Polymorph|Polymorph Skills]].
 It also provides the following passive effects:
