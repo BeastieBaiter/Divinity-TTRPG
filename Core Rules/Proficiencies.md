@@ -14,7 +14,7 @@ For more details see the [[Level Up Table]].
 
 ## Combat Proficiencies
 ---
-Combat Proficiencies  impact a character's damage output, survivability, and utility in combat. They are divided into the following 3 sub-categories:
+Combat Proficiencies impact a character's damage output, survivability, and utility in combat. They are divided into the following 3 sub-categories:
 ### Weapon Proficiencies
 ---
 #### Single-Handed: 
@@ -106,12 +106,18 @@ It also provides the following passive effects:
 - +6 to all your summons [[Defences#Physical Armor|Physical Armor]] and [[Defences#Magic Armor|Magic Armor]], per point.
 ## Civil Proficiencies
 ---
+Civil Proficiencies represent the all non-combat proficiencies of a creature. Ranging from a creature proficiency to haggle a price of good, to how lucky that creature is. 
+They are divided to 4-sub categories and each category has a default [[Attributes|Attribute]] associated with it.
 ### Aura Proficiencies
 ___
-#### Lucky Charm:
+Aura proficiencies represent a character's intangible qualities, their luck, vibe, and the subtle influence they exert on their surroundings. The default [[Attributes|Attribute]] is the highest attribute a creature has.
+#### Lucky:
+Represents a creature's luck. Use luck [[Proficiency Check]] to determine fortunate outcomes: Does the creature find extra treasure while looting? Does a hostile guard happen to be distracted at the crucial moment? Does a trap malfunction just as the creature passes by?
+Provides +1 to all lucky [[Proficiency Check]]s.
+
 ### Personality Proficiencies
 ___
-#### Batering:
+#### Battering:
 #### Persuasion:
 ### Craftmanship Proficiencies
 ___
