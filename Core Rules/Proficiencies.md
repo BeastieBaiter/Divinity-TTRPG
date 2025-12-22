@@ -84,11 +84,13 @@ It also provides the following passive effects:
 #### Geokinetic
 Required proficiency for [[Skills#Geokinetic|Geokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Geokinetic|Geokinetic Skills]].
 It also provides the following passive effects:
-- 
+- +1 to all Earth and Poison damage, per point.
+- +3 to any [[Defences#Physical Armor|Physical Armor]] restoration you cause, per point.
 #### Hydrokinetic
 Required proficiency for [[Skills#Hydrokinetic|Hydrokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Hydrokinetic|Hydrokinetic Skills]].
 It also provides the following passive effects:
-- 
+- +1 to all Water damage and healing, per point.
+- +3 to any [[Defences#Magic Armor|Magic Armor]] restoration you cause, per point.
 #### Pyrokinetic
 Required proficiency for [[Skills#Pyrokinetic|Pyrokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Pyrokinetic|Pyrokinetic Skills]].
 It also provides the following passive effects:
