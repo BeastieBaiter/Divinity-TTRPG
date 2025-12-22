@@ -60,7 +60,7 @@ Provides the following effects:
 #### Warfare
 Required proficiency for [[Skills#Warfare|Warfare Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Warfare|Warfare Skills]].
 It also provides the following passive effects:
-- +1 to all physical damage dealt by the character, per point.
+- +1 to all physical [[Damage]] dealt by the character, per point.
 #### Scoundrel
 Required proficiency for [[Skills#Scoundrel|Scoundrel Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Warfare|Scoundrel Skills]].
 It also provides the following passive effects:
@@ -71,7 +71,7 @@ It also provides the following passive effects:
 Required proficiency for [[Skills#Ranger|Ranger Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Ranger|Ranger Skills]].
 It also provides the following passive effects:
 - Improves the bonuses from [[Status Effects#High Ground|High Ground Status Effect]] by 1, and Reduces de the penalties from [[Status Effects#Low Ground|Low Ground Status Effect]] by 1, per point
-- +1 to all ranged damage at least 5 meters away from the target, per point.
+- +1 to all ranged [[Damage]] at least 5 meters away from the target, per point.
 <!Note: Needs testing ->
 #### Polymorph
 Required proficiency for [[Skills#Polymorph|Polymorph Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Polymorph|Polymorph Skills]].
@@ -84,25 +84,26 @@ It also provides the following passive effects:
 #### Geokinetic
 Required proficiency for [[Skills#Geokinetic|Geokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Geokinetic|Geokinetic Skills]].
 It also provides the following passive effects:
-- +1 to all Earth and Poison damage, per point.
+- +1 to all Earth and Poison [[Damage]], per point.
 - +3 to any [[Defences#Physical Armor|Physical Armor]] restoration you cause, per point.
 #### Hydrokinetic
 Required proficiency for [[Skills#Hydrokinetic|Hydrokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Hydrokinetic|Hydrokinetic Skills]].
 It also provides the following passive effects:
-- +1 to all Water damage and healing, per point.
+- +1 to all Water [[Damage]] and healing, per point.
 - +3 to any [[Defences#Magic Armor|Magic Armor]] restoration you cause, per point.
 #### Pyrokinetic
 Required proficiency for [[Skills#Pyrokinetic|Pyrokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Pyrokinetic|Pyrokinetic Skills]].
 It also provides the following passive effects:
-- +1 to all Fire damage, per point.
+- +1 to all Fire [[Damage]], per point.
 #### Necromancer
 Required proficiency for [[Skills#Necromancer|Necromancer Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Necromancer|Necromancer Skills]].
 It also provides the following passive effects:
-- 
+- +2 heal to all [[Damage]] you cause to vitality, per point.
 #### Summoning
 Required proficiency for [[Skills#Summoning|Summoning Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Summoning|Summoning Skills]].
 It also provides the following passive effects:
-- 
+- +2 to all your summons [[Damage]] and [[Vitality (HP)]], per point.
+- +6 to all your summons [[Defences#Physical Armor|Physical Armor]] and [[Defences#Magic Armor|Magic Armor]], per point.
 ## Civil Proficiencies
 ---
 ### Aura Proficiencies
