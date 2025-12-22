@@ -80,7 +80,7 @@ It also provides the following passive effects:
 #### Aerokinetic
 Required proficiency for [[Skills#Aerokinetic|Aerokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Aerokinetic|Aerokinetic Skills]].
 It also provides the following passive effects:
-- 
+- +1 to all Air damage, per point.
 #### Geokinetic
 Required proficiency for [[Skills#Geokinetic|Geokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Geokinetic|Geokinetic Skills]].
 It also provides the following passive effects:
@@ -92,7 +92,7 @@ It also provides the following passive effects:
 #### Pyrokinetic
 Required proficiency for [[Skills#Pyrokinetic|Pyrokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Pyrokinetic|Pyrokinetic Skills]].
 It also provides the following passive effects:
-- 
+- +1 to all Fire damage, per point.
 #### Necromancer
 Required proficiency for [[Skills#Necromancer|Necromancer Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Necromancer|Necromancer Skills]].
 It also provides the following passive effects:
