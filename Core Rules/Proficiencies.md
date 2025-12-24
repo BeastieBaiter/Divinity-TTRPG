@@ -118,7 +118,7 @@ Provides +1 to all Lucky [[Proficiency Check]]s.
 ___
 Personality proficiencies represent the power and force of a character's personality. These proficiencies encompass the ability to influence, inspire, or manipulate others through charisma. The default [[Attributes|Attribute]] is [[Attributes#Wits (WIT)|Wits]]
 #### Persuasion: 
-Represents a creature's persuasion capability. You can use a Persuasion [[Proficiency Check]] to determine if a creature was able to influence another creature through their charisma: Like negotiating a price of a item with vendor. Convincing a creature to commit a cetain action. Deceiving a creature of a certain aspect.
+Represents a creature's persuasion capability. You can use a Persuasion [[Proficiency Check]] to determine if a creature was able to influence another creature through their charisma: Like negotiating a price of a item with vendor, convincing a creature to commit a certain action, or deceiving a creature of a certain aspect.
 Provides +1 to all Persuasion [[Proficiency Check]]s.
 ### Knowledge Proficiencies
 ___
@@ -130,8 +130,11 @@ Provides +1 to all Loremaster [[Proficiency Check]]s.
 ___
 Cunning proficiencies represent a character's skill in roguish arts. The default [[Attributes|Attribute]] is [[Attributes#Finesse (FIN)|Finesse]].
 ### Sneaking:
-Represents a creature's skill over actions that require a discretion. You can use a Sneaking [[Proficiency Check]] to determine if a creature was able walk stealthily past another creature, or determine if a creature was able to pickpocket another creature, or to determine if creature was able pick the lock of a locked chest or door. 
+Represents a creature's skill over actions that require discretion. You can use a Sneaking [[Proficiency Check]] to determine if a creature was able walk stealthily past another creature, determine if a creature was able to pickpocket another creature, or to determine if creature was able pick the lock of a locked chest or door. 
 Provides +1 to all Sneaking [[Proficiency Check]]s.
 ### Vigorous Proficiencies
 ___
 Vigorous proficiencies represent a character's a physical skill over physically demanding activities or actions. The default [[Attributes|Attribute]] is [[Attributes#Strength (STR)|Strength]] or [[Attributes#Constitution (CON)|Constitution]], whichever is highest.
+### Athletics:
+Represents a creature's athletic capabilities. You can use a Athletics [[Proficiency Check]] to determine if a creature is able to climb, jump, swim or perform any athletic demanding action.
+Provides +1 to all Athletics [[Proficiency Check]]s.
