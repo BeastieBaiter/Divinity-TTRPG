@@ -112,17 +112,26 @@ They are divided to 4-sub categories and each category has a default [[Attribute
 ___
 Aura proficiencies represent a character's intangible qualities, their luck, vibe, and the subtle influence they exert on their surroundings. The default [[Attributes|Attribute]] is the highest attribute a creature has.
 #### Lucky:
-Represents a creature's luck. Use luck [[Proficiency Check]] to determine fortunate outcomes: Does the creature find extra treasure while looting? Does a hostile guard happen to be distracted at the crucial moment? Does a trap malfunction just as the creature passes by?
-Provides +1 to all lucky [[Proficiency Check]]s.
-
+Represents a creature's luck. You can use a Luck [[Proficiency Check]] to determine fortunate outcomes: Does the creature find extra treasure while looting? Does a hostile guard happen to be distracted at the crucial moment? Does a trap malfunction just as the creature passes by?
+Provides +1 to all Lucky [[Proficiency Check]]s.
 ### Personality Proficiencies
 ___
-#### Battering:
-#### Persuasion:
-### Craftmanship Proficiencies
+Personality proficiencies represent the power and force of a character's personality. These proficiencies encompass the ability to influence, inspire, or manipulate others through charisma. The default [[Attributes|Attribute]] is [[Attributes#Wits (WIT)|Wits]]
+#### Persuasion: 
+Represents a creature's persuasion capability. You can use a Persuasion [[Proficiency Check]] to determine if a creature was able to influence another creature through their charisma: Like negotiating a price of a item with vendor. Convincing a creature to commit a cetain action. Deceiving a creature of a certain aspect.
+Provides +1 to all Persuasion [[Proficiency Check]]s.
+### Knowledge Proficiencies
 ___
+Knowledge proficiencies represent a character's mastery over specific schools of knowledge. The default [[Attributes|Attribute]] is [[Attributes#Intelligence (INT)|Intelligence]] or [[Attributes#Memory (MEM)|Memory]], whichever is highest.
 #### Loremaster:
+Represents a creature's knowledge over the Arcane world. You can use a Loremaster [[Proficiency Check]] to identify magic items, monsters and any magical effect or aspect in general.
+Provides +1 to all Loremaster [[Proficiency Check]]s.
 ### Cunning Proficiencies
 ___
-### Sneaking;
-### Thievery:
+Cunning proficiencies represent a character's skill in roguish arts. The default [[Attributes|Attribute]] is [[Attributes#Finesse (FIN)|Finesse]].
+### Sneaking:
+Represents a creature's skill over actions that require a discretion. You can use a Sneaking [[Proficiency Check]] to determine if a creature was able walk stealthily past another creature, or determine if a creature was able to pickpocket another creature, or to determine if creature was able pick the lock of a locked chest or door. 
+Provides +1 to all Sneaking [[Proficiency Check]]s.
+### Vigorous Proficiencies
+___
+Vigorous proficiencies represent a character's a physical skill over physically demanding activities or actions. The default [[Attributes|Attribute]] is [[Attributes#Strength (STR)|Strength]] or [[Attributes#Constitution (CON)|Constitution]], whichever is highest.
