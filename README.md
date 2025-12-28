@@ -12,7 +12,7 @@ Divinity is a TTRPG inspired by the games from the Divinity Original Sin Saga.
 	- #### [[Movement]]
 	- #### [[Initiative]]
 	- #### [[Vitality (HP)]]
-	- #### [[Action Points]]
+	- #### [[Action Points (AP)]]
 	- #### [[Source Points]] <!Note: Change name->
 - ### [[Skills]]
 - ### [[Proficiencies]]

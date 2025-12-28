@@ -1,0 +1,3 @@
+**Action Points (AP)** are the resource currency [[Player]]s use to cast skills and perform actions during combat. All [[Player]]s start with a base of **4 AP per turn**, though this value can be affected by [[Gear]], [[Skills]], [[Status Effects]], and [[Talents]].
+
+**Unspent AP carries over to the next turn.** For example, if a player spends **3 AP** in turn 1 and ends their turn with **1 AP remaining**, they will start turn 2 with **5 AP** (4 base + 1 carried over). However, players cannot exceed **8 AP** at any time.
