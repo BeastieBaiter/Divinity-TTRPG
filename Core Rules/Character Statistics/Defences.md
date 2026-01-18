@@ -1,14 +1,14 @@
 Defences can broke down into 3 categories, Physical and Magical Armor that is affect by the attributes of the players [[Gear#Armor|Armor]] and [[Skills]] and Elemental Resistances which can be affected by [[Gear]], [[Skills]], [[Proficiencies]], [[Talents]] and [[Status Effects]].
 ## Physical Armor
 ___
-The Physical Armor value affects your [[Damage#Physical Damage|Physical Damage]] absorption. **One Physical Armor point absorbs one point of [[Damage#Physical Damage|Physical Damage]]**. 
+The Physical Armor value affects your [[Damage#Damage Types|Physical Damage]] absorption. **One Physical Armor point absorbs one point of [[Damage#Damage Types|Physical Damage]]**. 
 
 When you received [[Damage]] from a physical attack, you first decrease the value of your Physical Armor before your [[Vitality (HP)]]. Your Physical Armor current value can decrease during a battle, so when it hits 0, your [[Vitality (HP)]] will take the full amount of damage. Your Physical Armor can be restored upon resting.
 
 Physical Armor is also used to block [[Status Effects#Physical Status Effects|Physical Status Effects]], as long as Physical Armor is above zero, physical statuses like [[Status Effects#Knocked Down|Knocked Down]] or [[Status Effects#Crippled|Crippled]], can not take effect as long Physical Armor exists.
 ## Magic Armor
 ___
-The Magic Armor value affects your [[Damage#Magic Damage|Magic Damage]] and your [[Damage#Elemental Damage|Elemental Damage]] (fire, water, air, earth and poison). **One Magic Armor point absorbs one point of [[Damage#Magic Damage|Magic Damage]]/[[Damage#Elemental Damage|Elemental Damage]]**. 
+The Magic Armor value affects your [[Damage#Damage Types|Magic Damage]] (fire, water, air, earth and poison). **One Magic Armor point absorbs one point of [[Damage#Magic Damage|Magic Damage]]/[[Damage#Elemental Damage|Elemental Damage]]**. 
 
 [[Defences#Elemental Resistances|Elemental Resistances]] apply before affecting Magic Armor, so when you received [[Damage]] from a magic attack or elemental source, you first apply the [[Defences#Elemental Resistances|Elemental Resistances]], then decrease the value of your Magic Armor before your [[Vitality (HP)]]. Your Magic Armor current value can decrease during a battle, so when it hits 0, your [[Vitality (HP)]] will take the full amount of damage. Your Magic Armor can be restored upon resting.
 

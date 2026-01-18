@@ -5,4 +5,4 @@ Any attack that is dealt to a creature on a successful hit, either from a [[Gear
  [[Status Effects]], or any other source of damage not mentioned above, will usually pre-determined.
 ## Damage Types
 ___
-Damage Types can be organized in two categories, Physical (ex: Weapons, any source that does not have have a element associated with) and Magic Damage (all elemental damage) .
+Damage Types can be organized in two categories, Physical (ex: Weapons, any source that does not have have a element associated with) and Magic Damage (all elemental damage).

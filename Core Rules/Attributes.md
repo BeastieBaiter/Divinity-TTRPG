@@ -1,4 +1,4 @@
-There are 6 Attributes in [[README]], 3 that represent your [[#Physical Attributes]] and 3 that represent your [[#Mental Attributes]].
+There are 6 Attributes, 3 that represent your [[#Physical Attributes]] and 3 that represent your [[#Mental Attributes]].
 
 All characters begin with a base 0 points in each attribute. Characters at level 1 has a Pool of 9 attribute points to distribute between each attribute. At level 1, players can only have 1 attribute with a value of 3.
 
@@ -45,9 +45,9 @@ Increases damage dealt with intelligence-based weapons and skills. Also a prereq
 Represents your mental skill to recall and gather knowledge. 
 Determines how many Skills can be memorized at any one time.  Most skills only require a single memory slot. More powerful skills require more memory slots and source points.
 #### Perks per point ABOVE 10
-- +1 [[Memory Slot]].
+- +1 to [[Memory Slots]].
 #### Losses per point BELOW 10
--  -1 [[Memory Slot]].
+-  -1 to [[Memory Slots]].
 ### Wits (WIT)
 Represents your charm, presence, and force of will. Anything related to your skill of interacting socially with other creatures. 
 Affects your Critical Chance, Initiative, and ability to detect traps and find hidden treasures.

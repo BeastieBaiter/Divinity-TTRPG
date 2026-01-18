@@ -4,7 +4,7 @@ For example a player might want to negotiate the price of a certain item with ve
 
 Unlike most RPGs Proficiencies are not tied to any particular [[Attributes|Attribute]] ([[Attributes#Strength (STR)|Strength]], [[Attributes#Finesse (FIN)|Finesse]], [[Attributes#Constitution (CON)|Constitution]], [[Attributes#Intelligence (INT)|Intelligence]], [[Attributes#Memory (MEM)|Memory]] or [[Attributes#Wits (WIT)|Wits]]).  Which Attribute you use for a given Proficiency Check depends on how you’re performing the Proficiency. Its up to the Players and GM to discuss and get creative with Attributes for Checks, but the GM always retains the final say to decide which Attribute players use for the Check.
 
-Guidelines and Rules for determining the Attribute and Proficiency for a [[Proficiency Check]] are outlined in the [[Checks and Saves]] page.
+Guidelines and Rules for determining the Attribute and Proficiency for a Proficiency Check, are outlined in the [[Checks and Saves]] page.
 
 Proficiencies are split into 2 main categories. [[#Combat Proficiencies]], which is then divided into 3 sub-categories: [[#Weapon Proficiencies]], [[#Defence Proficiencies]] and [[#Skill Proficiencies]]. And [[#Civil Proficiencies]], which are also  divided into 3 sub-categories: [[#Personality Proficiencies]], [[#Craftmanship Proficiencies]] and [[#Cunning Proficiencies]]. These 2 main categories, allow players to tailor their character's strengths to their preferred playstyle in both combat and in roleplay.
 
@@ -18,24 +18,24 @@ Combat Proficiencies impact a character's damage output, survivability, and util
 ### Weapon Proficiencies
 ---
 #### Single-Handed: 
-Increases damage and accuracy with a [[One-Handed Weapon]] (dagger, sword, axe, mace or wand) with a [[Shield]] or empty off-hand.
+Increases damage and accuracy with [[Gear#One-Handed Weapons]] (dagger, sword, axe, mace or wand) with a [[Gear#Shields]] or empty off-hand.
 Provides the following effect:
-- +1 to [[Damage]], to the Hit Roll, with a [[One-Handed Weapon]] with a [[Shield]] or empty off-hand, and to any Single-Handed [[Proficiency Check]] per point.
+- +1 to [[Damage]], to the Hit Roll, with [[Gear#One-Handed Weapons]] with [[Gear#Shields]] or empty off-hand, and to any Single-Handed Proficiency Check per point.
 #### Two-Handed:
-Increases the damage a character deals with a [[Two-Handed Weapon]] (two-handed swords, maces, axes, spears and staves), and increases [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]] while wielding them.
+Increases the damage a character deals with [[Gear#Two-Handed Weapons]] (two-handed swords, maces, axes, spears and staves), and increases [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]] while wielding them.
 Provides the following effect:
-- +1 to [[Damage]], to the [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], with a [[Two-Handed Weapon]], and to any Two-Handed [[Proficiency Check]] per point.
+- +1 to [[Damage]], to the [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], with a [[Gear#Two-Handed Weapon]], and to any Two-Handed Proficiency Check per point.
 #### Dual Wielding:
 Increases Damage and [[Dodge Chance]] when dual-wielding one-handed weapons.
 Provides the following effect:
-- +1 to [[Damage]] and to the [[Dodge Chance]], when dual-wielding [[One-Handed Weapon|One-Handed Weapons]], and to any Dual Wielding [[Proficiency Check]] per point.
+- +1 to [[Damage]] and to the [[Dodge Chance]], when dual-wielding [[Gear#One-Handed Weapons|One-Handed Weapons]], and to any Dual Wielding Proficiency Check per point.
 #TODO 
 <!Note: +1 to Dodge Chance per point might be to much, might have to be per 4 points->
 #### Ranged:
-Increases damage and [[Hit Ranges & Critical Hits]] with [[Ranged Weapons]] (bows and crossbows).
+Increases damage and [[Hit Ranges & Critical Hits]] with [[Gear#Ranged Weapons]] (bows and crossbows).
 Provides the following effect:
-- +1 to [[Damage]] and any Ranged [[Proficiency Check]] per point.
-- -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Ranged Weapons]], per point.
+- +1 to [[Damage]] and any Ranged Proficiency Check per point.
+- -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Gear#Ranged Weapons]], per point. Gear#Weapons
 ### Defence Proficiencies
 ---
 #### Leadership
@@ -112,29 +112,29 @@ They are divided to 4-sub categories and each category has a default [[Attribute
 ___
 Aura proficiencies represent a character's intangible qualities, their luck, vibe, and the subtle influence they exert on their surroundings. The default [[Attributes|Attribute]] is the highest attribute a creature has.
 #### Lucky:
-Represents a creature's luck. You can use a Luck [[Proficiency Check]] to determine fortunate outcomes: Does the creature find extra treasure while looting? Does a hostile guard happen to be distracted at the crucial moment? Does a trap malfunction just as the creature passes by?
-Provides +1 to all Lucky [[Proficiency Check]]s.
+Represents a creature's luck. You can use a Luck Proficiency Check to determine fortunate outcomes: Does the creature find extra treasure while looting? Does a hostile guard happen to be distracted at the crucial moment? Does a trap malfunction just as the creature passes by?
+Provides +1 to all Lucky Proficiency Checks.
 ### Personality Proficiencies
 ___
 Personality proficiencies represent the power and force of a character's personality. These proficiencies encompass the ability to influence, inspire, or manipulate others through charisma. The default [[Attributes|Attribute]] is [[Attributes#Wits (WIT)|Wits]]
 #### Persuasion: 
-Represents a creature's persuasion capability. You can use a Persuasion [[Proficiency Check]] to determine if a creature was able to influence another creature through their charisma: Like negotiating a price of a item with vendor, convincing a creature to commit a certain action, or deceiving a creature of a certain aspect.
-Provides +1 to all Persuasion [[Proficiency Check]]s.
+Represents a creature's persuasion capability. You can use a Persuasion Proficiency Check to determine if a creature was able to influence another creature through their charisma: Like negotiating a price of a item with vendor, convincing a creature to commit a certain action, or deceiving a creature of a certain aspect.
+Provides +1 to all Persuasion Proficiency Checks.
 ### Knowledge Proficiencies
 ___
 Knowledge proficiencies represent a character's mastery over specific schools of knowledge. The default [[Attributes|Attribute]] is [[Attributes#Intelligence (INT)|Intelligence]] or [[Attributes#Memory (MEM)|Memory]], whichever is highest.
 #### Loremaster:
-Represents a creature's knowledge over the Arcane world. You can use a Loremaster [[Proficiency Check]] to identify magic items, monsters and any magical effect or aspect in general.
-Provides +1 to all Loremaster [[Proficiency Check]]s.
+Represents a creature's knowledge over the Arcane world. You can use a Loremaster Proficiency Check to identify magic items, monsters and any magical effect or aspect in general.
+Provides +1 to all Loremaster Proficiency Checks.
 ### Cunning Proficiencies
 ___
 Cunning proficiencies represent a character's skill in roguish arts. The default [[Attributes|Attribute]] is [[Attributes#Finesse (FIN)|Finesse]].
 ### Sneaking:
-Represents a creature's skill over actions that require discretion. You can use a Sneaking [[Proficiency Check]] to determine if a creature was able walk stealthily past another creature, determine if a creature was able to pickpocket another creature, or to determine if creature was able pick the lock of a locked chest or door. 
-Provides +1 to all Sneaking [[Proficiency Check]]s.
+Represents a creature's skill over actions that require discretion. You can use a Sneaking Proficiency Check to determine if a creature was able walk stealthily past another creature, determine if a creature was able to pickpocket another creature, or to determine if creature was able pick the lock of a locked chest or door. 
+Provides +1 to all Sneaking Proficiency Checks.
 ### Vigorous Proficiencies
 ___
 Vigorous proficiencies represent a character's a physical skill over physically demanding activities or actions. The default [[Attributes|Attribute]] is [[Attributes#Strength (STR)|Strength]] or [[Attributes#Constitution (CON)|Constitution]], whichever is highest.
 ### Athletics:
-Represents a creature's athletic capabilities. You can use a Athletics [[Proficiency Check]] to determine if a creature is able to climb, jump, swim or perform any athletic demanding action.
-Provides +1 to all Athletics [[Proficiency Check]]s.
+Represents a creature's athletic capabilities. You can use a Athletics Proficiency Check to determine if a creature is able to climb, jump, swim or perform any athletic demanding action.
+Provides +1 to all Athletics Proficiency Checks.
