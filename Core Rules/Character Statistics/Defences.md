@@ -1,4 +1,4 @@
-Defences can broke down into 3 categories, Physical and Magical Armor that is affect by the attributes of the players [[Gear#Armor|armor]] and [[Skills]] and Elemental Resistances which can be affected by [[Gear]], [[Skills]], [[Proficiencies]], [[Talents]] and [[Status Effects]].
+Defences can broke down into 3 categories, Physical and Magical Armor that is affect by the attributes of the players [[Gear#Armor|Armor]] and [[Skills]] and Elemental Resistances which can be affected by [[Gear]], [[Skills]], [[Proficiencies]], [[Talents]] and [[Status Effects]].
 ## Physical Armor
 ___
 The Physical Armor value affects your [[Damage#Physical Damage|Physical Damage]] absorption. **One Physical Armor point absorbs one point of [[Damage#Physical Damage|Physical Damage]]**. 

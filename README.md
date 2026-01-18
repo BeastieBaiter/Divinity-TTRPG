@@ -3,6 +3,7 @@ Divinity is a TTRPG inspired by the games from the Divinity Original Sin Saga.
 ## Core Rules: 
 - ### [[Attributes]]
 - ### Character Statistics:
+	- #### [[Origin]]
 	- #### [[Damage]]
 	- #### [[Hit Ranges & Critical Hits]]
 	- #### [[Accuracy Bonus]]
@@ -13,11 +14,13 @@ Divinity is a TTRPG inspired by the games from the Divinity Original Sin Saga.
 	- #### [[Initiative]]
 	- #### [[Vitality (HP)]]
 	- #### [[Action Points (AP)]]
-	- #### [[Source Points]] <!Note: Change name->
 - ### [[Skills]]
 - ### [[Proficiencies]]
 - ### [[Talents]]
 - ### [[Checks and Saves]]
 - ### [[Level Up Table]]
+- ### [[Status Effects]]
+- ### [[Gear]]
+- ### [[Death's Door]]
 
 
