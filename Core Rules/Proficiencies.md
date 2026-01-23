@@ -20,28 +20,28 @@ Combat Proficiencies impact a character's damage output, survivability, and util
 #### Single-Handed: 
 Increases damage and accuracy with [[Gear#One-Handed Weapons]] (dagger, sword, axe, mace or wand) with a [[Gear#Shields]] or empty off-hand.
 Provides the following effect:
-- +1 to [[Damage]], to the Hit Roll, with [[Gear#One-Handed Weapons]] with [[Gear#Shields]] or empty off-hand, and to any Single-Handed Proficiency Check per point.
+- +1 to [[Damage]], to the [[Accuracy & Dodge Chance|Accuracy Chance]], with [[Gear#One-Handed Weapons]] and with [[Gear#Shields]] or empty off-hand, and to any Single-Handed Proficiency Check per point.
 #### Two-Handed:
 Increases the damage a character deals with [[Gear#Two-Handed Weapons]] (two-handed swords, maces, axes, spears and staves), and increases [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]] while wielding them.
 Provides the following effect:
 - +1 to [[Damage]], to the [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], with a [[Gear#Two-Handed Weapon]], and to any Two-Handed Proficiency Check per point.
 #### Dual Wielding:
-Increases Damage and [[Dodge Chance]] when dual-wielding one-handed weapons.
+Increases [[Damage]] and [[Accuracy & Dodge Chance|Dodge Chance]] when dual-wielding one-handed weapons.
 Provides the following effect:
-- +1 to [[Damage]] and to the [[Dodge Chance]], when dual-wielding [[Gear#One-Handed Weapons|One-Handed Weapons]], and to any Dual Wielding Proficiency Check per point.
+- +1 to [[Damage]] and to the [[Accuracy & Dodge Chance|Dodge Chance]], when dual-wielding [[Gear#One-Handed Weapons|One-Handed Weapons]], and to any Dual Wielding Proficiency Check per point.
 #TODO 
 <!Note: +1 to Dodge Chance per point might be to much, might have to be per 4 points->
 #### Ranged:
 Increases damage and [[Hit Ranges & Critical Hits]] with [[Gear#Ranged Weapons]] (bows and crossbows).
 Provides the following effect:
-- +1 to [[Damage]] and any Ranged Proficiency Check per point.
+- +1 to [[Damage]] and to any Ranged Proficiency Check per point.
 - -1 to [[Hit Ranges & Critical Hits]] per 4 points, with [[Gear#Ranged Weapons]], per point. Gear#Weapons
 ### Defence Proficiencies
 ---
 #### Leadership
-Boosts [[Dodge Chance]] and [[Defences#Elemental Resistances|Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**
+Boosts [[Accuracy & Dodge Chance|Dodge Chance]] and [[Defences#Elemental Resistances|Elemental Resistances]] of nearby allies, within a limited radius. **Does not boost the character with points in leadership.**
 Provide the following effects to all allies within a **8 meters radius**:
- - +2 to [[Dodge Chance]] per point.
+ - +2 to [[Accuracy & Dodge Chance|Dodge Chance]] per point.
  - +1 to all [[Defences#Elemental Resistances|Elemental Resistances]] per point.
 <!Note: +2 to Dodge Chance per point might be to much, might have to be per 4 points
 		+1 to all Elemental Resistances per point might be to little, might have to be +2 or +3 ->
@@ -64,7 +64,7 @@ It also provides the following passive effects:
 #### Scoundrel
 Required proficiency for [[Skills#Scoundrel|Scoundrel Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Warfare|Scoundrel Skills]].
 It also provides the following passive effects:
-- +1 to Movement, per 3 points.
+- +1 to [[Movement]], per 3 points.
 - +1 to [[Hit Ranges & Critical Hits#Critical Hit Damage|Critical Hit Damage]], per 2 points.
 <!Note: Needs testing->
 ### Ranger
@@ -80,7 +80,7 @@ It also provides the following passive effects:
 #### Aerokinetic
 Required proficiency for [[Skills#Aerokinetic|Aerokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Aerokinetic|Aerokinetic Skills]].
 It also provides the following passive effects:
-- +1 to all Air damage, per point.
+- +1 to all Air [[Damage]], per point.
 #### Geokinetic
 Required proficiency for [[Skills#Geokinetic|Geokinetic Skills]]. The more points in this proficiency the higher level skills you can unlock from [[Skills#Geokinetic|Geokinetic Skills]].
 It also provides the following passive effects:
