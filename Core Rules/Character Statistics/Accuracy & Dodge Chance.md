@@ -1,7 +1,7 @@
 ## Accuracy Chance
 Some attacks need to beat a check in order to successfully hit the target, either from a [[Gear#Weapons|Weapons]] or [[Skills]]. When a player wants to make these attacks they must make Accuracy Check roll (d20) and it can be calculated using the following formula:
 
-<center><b>Accuracy = d20 + Proficiencies Values (of the skill of the attack) ± any Status Effects or inherent Debuffs</b></center>
+<center><b>Accuracy = d20 + Proficiencies Values (if applicable) ± any Status Effects or inherent Debuffs</b></center>
 
  [[Status Effects]], or any other source of damage not mentioned above, will usually pre-determined.
 ## Rule Option #1: Dodge Chance (DC)
