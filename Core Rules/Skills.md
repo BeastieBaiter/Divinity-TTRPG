@@ -77,7 +77,7 @@ ___
 	  
 - **Chicken Claw**: Turn the target character into a chicken, for 2 turns.
 	- Costs: 2 [[Action Points (AP)]]
-	- Range: 3 meter radius
+	- Range: 2 meter radius
 	- Cooldown: 6 on a d6 (or max 6 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 	  
@@ -90,6 +90,25 @@ ___
 ## Intelligence  (INT)
 ___
 ### Aerokinetic
+**Blinding Radiance**: Enemies around you receive your Magic [[Damage]] + your Level as Air [[Damage]]. You become radiant, for 1 turn, setting any enemy in a 5 meter radius [[Status Effects#Blinded]], for as long they are in range. And also gaining +7 to your Air [[Defences#Elemental Resistances]].
+	- Range: 5 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
+	  
+- **Shocking Touch**: Sets [[Status Effects#Shocked]] for 2 turns on a target in range and deals your Magic [[Damage]] + your Level as Air [[Damage]]. 
+	- Sets: [[Status Effects#Shocked]] for 2 turns
+	- Costs: 2 [[Action Points (AP)]]
+	- Range: 2 meter radius
+	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
+	  
+- **Electric Discharge**: Create am electrical jolt that Magic [[Damage]] + your Level as Air [[Damage]] to a target character and sets [[Status Effects#Shocked]] for 2 turns.
+	- Sets: [[Status Effects#Shocked]] for 2 turns
+	- Range: 13 meter
+	- Costs: 2 [[Action Points (AP)]],
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 ### Geokinetic
 ### Hydrokinetic
 ### Pyrokinetic
