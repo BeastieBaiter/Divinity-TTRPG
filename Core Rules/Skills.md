@@ -90,7 +90,7 @@ ___
 ## Intelligence  (INT)
 ___
 ### Aerokinetic
-**Blinding Radiance**: Enemies around you receive your Magic [[Damage]] + your Level as Air [[Damage]]. You become radiant, for 1 turn, setting any enemy in a 5 meter radius [[Status Effects#Blinded]], for as long they are in range. And also gaining +7 to your Air [[Defences#Elemental Resistances]].
+- **Blinding Radiance**: Enemies around you receive your Magic [[Damage]] + your Level as Air [[Damage]]. You become radiant, for 1 turn, setting any enemy in a 5 meter radius [[Status Effects#Blinded]], for as long they are in range. And also gaining +7 to your Air [[Defences#Elemental Resistances]].
 	- Range: 5 meter radius
 	- Costs: 2 [[Action Points (AP)]]
 	- Cooldown: 4 on a d4 (or max 4 turns)
@@ -103,13 +103,32 @@ ___
 	- Cooldown: 3-4 on a d4 (or max 4 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 	  
-- **Electric Discharge**: Create am electrical jolt that Magic [[Damage]] + your Level as Air [[Damage]] to a target character and sets [[Status Effects#Shocked]] for 2 turns.
+- **Electric Discharge**: Create am electrical jolt that deals Magic [[Damage]] + your Level as Air [[Damage]] to a target character and sets [[Status Effects#Shocked]] for 2 turns.
 	- Sets: [[Status Effects#Shocked]] for 2 turns
 	- Range: 13 meter
 	- Costs: 2 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 ### Geokinetic
+- **Fossil Strike**: Sling a giant rock with filled with oil that deals your Magic [[Damage]] + your Level as Earth [[Damage]] to any target it impacts with, and creates an oil surface of a 3 meter radius where it impacts.
+	- Range: 13 meter radius. 3 meter radius Impact.
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic]]
+	  
+- **Fortify**: Sets [[Status Effects#Fortify]] for 3 turns, which provides your Level + [[Proficiencies#Geokinetic]] value as Physical Armour, per turn. While Fortified, the target cannot be teleported and removes [[Status Effects#Poisoned]], [[Status Effects#Bleeding]], [[Status Effects#Burning]], [[Status Effects#Acid]], [[Status Effects#Decaying]].
+	- Sets: [[Status Effects#Fortify]] for 3 turns
+	- Range: 13 meter radius. 
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic
+	
+- **Contamination**: Deals half of (your Magic [[Damage]] + your Level) as Poison [[Damage]] to enemies and heals [[Origin#Undead]] allies around you and poisons both of them for 2 turns, dealing Level as Poison [[Damage]]. Turns water, blood surfaces and clouds in to poison.
+	- Range: 8 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic]]
+	
 ### Hydrokinetic
 ### Pyrokinetic
 ### Memory (MEM)
