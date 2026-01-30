@@ -128,9 +128,33 @@ ___
 	- Costs: 2 [[Action Points (AP)]]
 	- Cooldown: 3-4 on a d4 (or max 4 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic]]
-	
 ### Hydrokinetic
+- **Restoration**: Restores [[Vitality (HP)]] of a target character for 3 turns, your Level + [[Proficiencies#Hydrokinetic]] value and cures [[Status Effects#Poisoned]] and [[[Status Effects#Bleeding]]. If the target is a Undead it will take Physical [[Damage]] instead of heal.
+	- Range: 13 meter radius
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
+	  
+- **Rain**: Create rain on a 10 radius, spreading and creating water surface which can douse fires. Sets [[Status Effects#Wet]] for 1 turn on characters in the area.
+	- Sets: [[Status Effects#Wet]] for 1 turn
+	- Range: 8 meter radius. 10 meter radius area.
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 6 on a d6 (or max 6 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
+	  
+- **Hail Strike**: Create Icicles that fall from the sky, chilling enemies and dealing half (your Level + Magic [[Damage]] as Water [[Damage]]. They create Ice surfaces where they hit the ground.
+	- Sets: [[Status Effects#Chilled]] for 2 turns
+	- Range: 13 meter radius. 1 meter impact
+	- Costs: 3 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
 ### Pyrokinetic
+- **Restoration**: Restores [[Vitality (HP)]] of a target character for 3 turns, your Level + [[Proficiencies#Hydrokinetic]] value and cures [[Status Effects#Poisoned]] and [[[Status Effects#Bleeding]]. If the target is a Undead it will take Physical [[Damage]] instead of heal.
+	- Range: 13 meter radius
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 4 on a d4 (or max 4 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
+	
 ### Memory (MEM)
 ___
 They are no known schools powered by memory so far.
