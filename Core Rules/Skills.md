@@ -100,7 +100,7 @@ ___
 	- Sets: [[Status Effects#Shocked]] for 2 turns
 	- Costs: 2 [[Action Points (AP)]]
 	- Range: 2 meter radius
-	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 	  
 - **Electric Discharge**: Create am electrical jolt that deals Magic [[Damage]] + your Level as Air [[Damage]] to a target character and sets [[Status Effects#Shocked]] for 2 turns.
@@ -113,7 +113,7 @@ ___
 - **Fossil Strike**: Sling a giant rock with filled with oil that deals your Magic [[Damage]] + your Level as Earth [[Damage]] to any target it impacts with, and creates an oil surface of a 3 meter radius where it impacts.
 	- Range: 13 meter radius. 3 meter radius Impact.
 	- Costs: 2 [[Action Points (AP)]]
-	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic]]
 	  
 - **Fortify**: Sets [[Status Effects#Fortify]] for 3 turns, which provides your Level + [[Proficiencies#Geokinetic]] value as Physical Armour, per turn. While Fortified, the target cannot be teleported and removes [[Status Effects#Poisoned]], [[Status Effects#Bleeding]], [[Status Effects#Burning]], [[Status Effects#Acid]], [[Status Effects#Decaying]].
@@ -126,7 +126,7 @@ ___
 - **Contamination**: Deals half of (your Magic [[Damage]] + your Level) as Poison [[Damage]] to enemies and heals [[Origin#Undead]] allies around you and poisons both of them for 2 turns, dealing Level as Poison [[Damage]]. Turns water, blood surfaces and clouds in to poison.
 	- Range: 8 meter radius
 	- Costs: 2 [[Action Points (AP)]]
-	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Geokinetic]]
 ### Hydrokinetic
 - **Restoration**: Restores [[Vitality (HP)]] of a target character for 3 turns, your Level + [[Proficiencies#Hydrokinetic]] value and cures [[Status Effects#Poisoned]] and [[[Status Effects#Bleeding]]. If the target is a Undead it will take Physical [[Damage]] instead of heal.
@@ -146,14 +146,15 @@ ___
 	- Sets: [[Status Effects#Chilled]] for 2 turns
 	- Range: 13 meter radius. 1 meter impact
 	- Costs: 3 [[Action Points (AP)]]
-	- Cooldown: 3-4 on a d4 (or max 4 turns)
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
 ### Pyrokinetic
-- **Restoration**: Restores [[Vitality (HP)]] of a target character for 3 turns, your Level + [[Proficiencies#Hydrokinetic]] value and cures [[Status Effects#Poisoned]] and [[[Status Effects#Bleeding]]. If the target is a Undead it will take Physical [[Damage]] instead of heal.
+- **Ignition**: Sets enemy characters around you on fire, and dealing half (your Level + Magic [[Damage]]) as Fire [[Damage]] to each targets. Ignites all susceptible surfaces.
+	- Sets: [[Status Effects#Burning]] for 2 turns, dealing Fire [[Damage]] of Level + [[Proficiencies#Pyrokinetic]]
 	- Range: 13 meter radius
 	- Costs: 1 [[Action Points (AP)]]
-	- Cooldown: 4 on a d4 (or max 4 turns)
-	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
+	- Cooldown: 2-4 on a d4 (or max 2 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Pyrokinetic]]
 	
 ### Memory (MEM)
 ___
