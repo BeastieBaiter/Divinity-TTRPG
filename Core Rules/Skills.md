@@ -2,7 +2,7 @@
 ___
 ### Warfare
 - **Battle Stomp**: Smash your weapon into the ground, trying to **knock down** non-allied characters in a **10 meter by 2 meter line** in front of you, and also hitting them for **half of your Physical and Weapon [[Damage]]**. Also clears non-cursed surfaces and clouds. 
-	- Sets: [[Status Effects#Knocked Down]] for 1 turn
+	- Sets: [[Status Effects#Knocked Down]] for 1 turn. Resisted by [[Defences#Physical Armor]].
 	- Costs: 2 [[Action Points (AP)]]
 	- Range: 10 meter by 2 meter Line
 	- Cooldown: 4 on a d4 (or max 4 turns)
@@ -15,7 +15,7 @@ ___
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Warfare]], equipped [[Gear#Shield]]
 	  
 - **Crippling Blow**: Cripple the target with a sweeping blow, and all characters around it in a 1 meter range. Deals your Physical [[Damage]] + double your Weapon [[Damage]].
-	- Sets: [[Status Effects#Crippled]] for 1 turn
+	- Sets: [[Status Effects#Crippled]] for 1 turn. Resisted by [[Defences#Physical Armor]].
 	- Range: 3 meter radius
 	- Costs: 2 [[Action Points (AP)]]
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
@@ -35,7 +35,7 @@ ___
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Scoundrel]], equipped [[Gear#Dagger]]
 	  
 - **Chloroform**: Deals your [[Attributes#Finesse (FIN)]] + Level as Magic [[Damage]] and then tries to set [[Status Effects#Sleeping]].
-	- Sets: [[Status Effects#Sleeping]] for 1 turn
+	- Sets: [[Status Effects#Sleeping]] for 1 turn. Resisted by [[Defences#Magic Armor]].
 	- Range: 13 meter radius
 	- Costs: 2 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
@@ -55,7 +55,7 @@ ___
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Ranger]], equipped [[Gear#Range Weapon]]
 	  
 - **Pin Down**: Cripple the target with a powefull shot. Deals your Physical [[Damage]] + double your Weapon [[Damage]].
-	- Sets: [[Status Effects#Crippled]] for 1 turn
+	- Sets: [[Status Effects#Crippled]] for 1 turn. Resisted by [[Defences#Physical Armor]].
 	- Range: 13 meter
 	- Costs: 3 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
@@ -69,20 +69,21 @@ ___
 	- Duration: 4 turns
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 	- **Bull Rush**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
-		- Sets: [[Status Effects#Bleeding]] for 2 turns
+		- Sets: [[Status Effects#Bleeding]] for 2 turns. Resisted by [[Defences#Physical Armor]].
 		- Costs: 2 [[Action Points (AP)]]
 		- Range: 12 meters by 2 meter line.
 		- Cooldown: 1 turn
 		- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 	  
 - **Chicken Claw**: Turn the target character into a chicken, for 2 turns.
+	- Resisted by [[Defences#Physical Armor]].
 	- Costs: 2 [[Action Points (AP)]]
 	- Range: 2 meter radius
 	- Cooldown: 6 on a d6 (or max 6 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 	  
 - **Tentacle Lash**: Sprout a tentacle from your arm and Lash out at your target dealing Physical [[Damage]] + half your Physical [[Damage]] and setting [[Status Effects#Atrophy]] on the target for 1 turn.
-	- Sets: [[Status Effects#Crippled]] for 1 turn
+	- Sets: [[Status Effects#Crippled]] for 1 turn. Resisted by [[Defences#Physical Armor]].
 	- Range: 8 meter
 	- Costs: 2 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
@@ -97,14 +98,14 @@ ___
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 	  
 - **Shocking Touch**: Sets [[Status Effects#Shocked]] for 2 turns on a target in range and deals your Magic [[Damage]] + your Level as Air [[Damage]]. 
-	- Sets: [[Status Effects#Shocked]] for 2 turns
+	- Sets: [[Status Effects#Shocked]] for 2 turns. Resisted by [[Defences#Magic Armor]].
 	- Costs: 2 [[Action Points (AP)]]
 	- Range: 2 meter radius
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Aerokinetic]]
 	  
 - **Electric Discharge**: Create am electrical jolt that deals Magic [[Damage]] + your Level as Air [[Damage]] to a target character and sets [[Status Effects#Shocked]] for 2 turns.
-	- Sets: [[Status Effects#Shocked]] for 2 turns
+	- Sets: [[Status Effects#Shocked]] for 2 turns. Resisted by [[Defences#Magic Armor]].
 	- Range: 13 meter
 	- Costs: 2 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
@@ -136,24 +137,38 @@ ___
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
 	  
 - **Rain**: Create rain on a 10 radius, spreading and creating water surface which can douse fires. Sets [[Status Effects#Wet]] for 1 turn on characters in the area.
-	- Sets: [[Status Effects#Wet]] for 1 turn
+	- Sets: [[Status Effects#Wet]] for 1 turn.
 	- Range: 8 meter radius. 10 meter radius area.
 	- Costs: 1 [[Action Points (AP)]]
 	- Cooldown: 6 on a d6 (or max 6 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
 	  
 - **Hail Strike**: Create Icicles that fall from the sky, chilling enemies and dealing half (your Level + Magic [[Damage]] as Water [[Damage]]. They create Ice surfaces where they hit the ground.
-	- Sets: [[Status Effects#Chilled]] for 2 turns
+	- Sets: [[Status Effects#Chilled]] for 2 turns. Resisted by [[Defences#Magic Armor]].
 	- Range: 13 meter radius. 1 meter impact
 	- Costs: 3 [[Action Points (AP)]]
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Hydrokinetic]]]
 ### Pyrokinetic
 - **Ignition**: Sets enemy characters around you on fire, and dealing half (your Level + Magic [[Damage]]) as Fire [[Damage]] to each targets. Ignites all susceptible surfaces.
-	- Sets: [[Status Effects#Burning]] for 2 turns, dealing Fire [[Damage]] of Level + [[Proficiencies#Pyrokinetic]]
+	- Sets: [[Status Effects#Burning]] for 2 turns, dealing Fire [[Damage]] of Level + [[Proficiencies#Pyrokinetic]]. Resisted by [[Defences#Magic Armor]].
 	- Range: 13 meter radius
 	- Costs: 1 [[Action Points (AP)]]
 	- Cooldown: 2-4 on a d4 (or max 2 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Pyrokinetic]]
+	
+- **Searing Daggers**: Shoot three flaming daggers at targets of your choice, each creating a Fire surface, of 1 meter radius, and dealing half (your Level + Magic [[Damage]]) as Fire [[Damage]] each to your targets.
+	- Sets: [[Status Effects#Burning]] for 2 turns, dealing Fire [[Damage]] of Level + [[Proficiencies#Pyrokinetic]]. Resisted by [[Defences#Magic Armor]].
+	- Range: 13 meter radius. 1 meter impact
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Pyrokinetic]]
+	
+- **Peace of Mind**: Target becomes Clear-Minded, which increases Strength, Finesse, Intelligence by (1 + Level of the caster), Wits by (2 + Level of the Caster). Removes of [[Status Effects#Blinded]], [[Status Effects#Terrified]], [[Status Effects#Charmed]], [[Status Effects#Taunted]], [[Status Effects#Sleeping]], [[Status Effects#Enraged]] and [[Status Effects#Mad]].
+	- Sets: Clear-Minded for 3 turns.
+	- Range: 13 meter radius
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Pyrokinetic]]
 	
 ### Memory (MEM)
