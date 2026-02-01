@@ -19,7 +19,7 @@ Elemental Resistances reduce the amount of damage taken from their respective e
 
 These resistances can range from negative to positive. If a resistance is negative it will increase the damage taken by respective type of attack by the resistance value. If a resistance value is over the damage taken by respective type of attack, the overflow will turn into healing instead. Example
 
-- If the Water Resistance of a creature is **-2**, it means that creature will receive additional 2 damage to any water-based attack it receives.
+- If the Water Resistance of a creature is **-2**, it means that creature will receive a additional 2 damage to any water-based attack it receives.
 - If the Water Resistance of a creature is **10**, but the **damage received** by the water-based attack is **5**, it means that creature will not only block the full 5 damage of the attack, but will also heal its [[Vitality (HP)]] by 5 points (10 - 5 = 5).
 
 There are 5 types of resistances:

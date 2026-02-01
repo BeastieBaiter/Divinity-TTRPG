@@ -68,6 +68,7 @@ ___
 	- Cooldown: 6 on a d6 (or max 6 turns)
 	- Duration: 4 turns
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
+	  
 	- **Bull Rush**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
 		- Sets: [[Status Effects#Bleeding]] for 2 turns. Resisted by [[Defences#Physical Armor]].
 		- Costs: 2 [[Action Points (AP)]]
@@ -177,4 +178,24 @@ They are no known schools powered by memory so far.
 ### Wits (WIT)
 ___
 ### Necromancer
+- **Raise Bloated Corpse**: Target a corpse to raise a bloated cadaver that fights for you.
+	- Range: 13 meter radius
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Necromancer]]
+	  
+	- **Bloated Corpse**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
+		- Duration: 10 turns.
+		- Passives: Is healed by Poison [[Damage]]. Creates a Blood surface of 1 meter radius where it stands.
+		- [[Action Points (AP)]] per turn: 
+		- [[Movement]] per [[Action Points (AP)]]: 
+		- Defences:
+			- [[Vitality (HP)]]: 10 + [[Proficiencies#Summoning]]  + Level of the caster.
+			- Armor: The corpse has no [[Defences#Physical Armor]] or [[Defences#Magic Armor]].
+			- Resistances: -7 to Fire [[Damage]].
+		- Skills: 
+			- **Basic Attack**: 2 + [[Proficiencies#Summoning]] + [[Proficiencies#Warfare]] + Level of the Caster.
+			- **Vile Burst**: Bloated Corpse explodes, dealing double of its Basica Attack [[Damage]] to all characters around it and creating large puddle of Blood of a 3 meter radius. Destroying the corpse.
+				- Range: 3 meter radius
+				- Costs: 2 [[Action Points (AP)]]
 ### Summoning
