@@ -20,6 +20,33 @@ ___
 	- Costs: 2 [[Action Points (AP)]]
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Warfare]], equipped [[Gear#Mellee Weapon]]
+### Polymorph
+- **Bull Horns**: Horns sprout from your forehead, allowing you can rush at your enemies. Increases [[Proficiencies#Retribution]] by 1 for the duration. Gain the Skill Bull Rush for 4 turns.
+	- Costs: 0 [[Action Points (AP)]]
+	- Cooldown: 6 on a d6 (or max 6 turns)
+	- Duration: 4 turns
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
+	  
+	- **Bull Rush**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
+		- Sets: [[Status Effects#Bleeding]] for 2 turns. Resisted by [[Defences#Physical Armor]].
+		- Costs: 2 [[Action Points (AP)]]
+		- Range: 12 meters by 2 meter line.
+		- Cooldown: 1 turn
+		- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
+	  
+- **Chicken Claw**: Turn the target character into a chicken, for 2 turns.
+	- Resisted by [[Defences#Physical Armor]].
+	- Costs: 2 [[Action Points (AP)]]
+	- Range: 2 meter radius
+	- Cooldown: 6 on a d6 (or max 6 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
+	  
+- **Tentacle Lash**: Sprout a tentacle from your arm and Lash out at your target dealing Physical [[Damage]] + half your Physical [[Damage]] and setting [[Status Effects#Atrophy]] on the target for 1 turn.
+	- Sets: [[Status Effects#Crippled]] for 1 turn. Resisted by [[Defences#Physical Armor]].
+	- Range: 8 meter
+	- Costs: 2 [[Action Points (AP)]],
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 ### Finesse (FIN)
 ___
 ### Scoundrel
@@ -60,35 +87,6 @@ ___
 	- Costs: 3 [[Action Points (AP)]],
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Ranger]], equipped [[Gear#Range Weapon]]
-### Constitution (CON)
-___
-### Polymorph
-- **Bull Horns**: Horns sprout from your forehead, allowing you can rush at your enemies. Increases [[Proficiencies#Retribution]] by 1 for the duration. Gain the Skill Bull Rush for 4 turns.
-	- Costs: 0 [[Action Points (AP)]]
-	- Cooldown: 6 on a d6 (or max 6 turns)
-	- Duration: 4 turns
-	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
-	  
-	- **Bull Rush**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
-		- Sets: [[Status Effects#Bleeding]] for 2 turns. Resisted by [[Defences#Physical Armor]].
-		- Costs: 2 [[Action Points (AP)]]
-		- Range: 12 meters by 2 meter line.
-		- Cooldown: 1 turn
-		- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
-	  
-- **Chicken Claw**: Turn the target character into a chicken, for 2 turns.
-	- Resisted by [[Defences#Physical Armor]].
-	- Costs: 2 [[Action Points (AP)]]
-	- Range: 2 meter radius
-	- Cooldown: 6 on a d6 (or max 6 turns)
-	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
-	  
-- **Tentacle Lash**: Sprout a tentacle from your arm and Lash out at your target dealing Physical [[Damage]] + half your Physical [[Damage]] and setting [[Status Effects#Atrophy]] on the target for 1 turn.
-	- Sets: [[Status Effects#Crippled]] for 1 turn. Resisted by [[Defences#Physical Armor]].
-	- Range: 8 meter
-	- Costs: 2 [[Action Points (AP)]],
-	- Cooldown: 3-4 on a d4 (or max 3 turns)
-	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Polymorph]]
 ## Intelligence  (INT)
 ___
 ### Aerokinetic
@@ -171,12 +169,6 @@ ___
 	- Costs: 1 [[Action Points (AP)]]
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Pyrokinetic]]
-	
-### Memory (MEM)
-___
-They are no known schools powered by memory so far.
-### Wits (WIT)
-___
 ### Necromancer
 - **Raise Bloated Corpse**: Target a corpse to raise a bloated cadaver that fights for you.
 	- Range: 13 meter radius
@@ -184,18 +176,94 @@ ___
 	- Cooldown: 3-4 on a d4 (or max 3 turns)
 	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Necromancer]]
 	  
-	- **Bloated Corpse**: Rush at your enemies, dealing your Physical [[Damage]] and setting [[Status Effects#Bleeding]] on the target(s) for 2 turns.
+	- **Bloated Corpse**:
 		- Duration: 10 turns.
 		- Passives: Is healed by Poison [[Damage]]. Creates a Blood surface of 1 meter radius where it stands.
-		- [[Action Points (AP)]] per turn: 
-		- [[Movement]] per [[Action Points (AP)]]: 
+		- [[Action Points (AP)]] per turn: 4
+		- [[Movement]] per [[Action Points (AP)]]: 5 meters
 		- Defences:
-			- [[Vitality (HP)]]: 10 + [[Proficiencies#Summoning]]  + Level of the caster.
+			- [[Vitality (HP)]]: 10 + ([[Proficiencies#Summoning]] * 2)  + Level of the caster.
 			- Armor: The corpse has no [[Defences#Physical Armor]] or [[Defences#Magic Armor]].
-			- Resistances: -7 to Fire [[Damage]].
+			- Resistances: -3 to Fire [[Damage]].
 		- Skills: 
-			- **Basic Attack**: 2 + [[Proficiencies#Summoning]] + [[Proficiencies#Warfare]] + Level of the Caster.
+			- **Basic Attack**: 2 + ([[Proficiencies#Summoning]] * 2) + [[Proficiencies#Warfare]] + Level of the Caster.
 			- **Vile Burst**: Bloated Corpse explodes, dealing double of its Basica Attack [[Damage]] to all characters around it and creating large puddle of Blood of a 3 meter radius. Destroying the corpse.
 				- Range: 3 meter radius
 				- Costs: 2 [[Action Points (AP)]]
+				  
+- **Mosquito Swarm**: Unleash a swarm of giant mosquitos to suck the blood from your enemies, dealing your Level + Magic [[Damage]] as Physical [[Damage]] and healing yourself for the same amount.
+	- Sets: [[Status Effects#Bleeding]] for 2 turns, half (your Level + [[Proficiencies#Necromancer]]) as Piercing [[Damage]]. 
+	- Range: 13 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Necromancer]]
+	  
+- **Decaying Touch**: Deal your Magic [[Damage]] as Physical [[Damage]] to target character, and set Decay on them, which will make the target take Physical [[Damage]] from healing spells and potions.
+	- Sets: [[Status Effects#Decay]] for 2 turns. 
+	- Range: 2 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 3-4 on a d4 (or max 3 turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Necromancer]]
 ### Summoning
+- **Conjure Incarnate**: Conjure a personal elemental incarnate, that matches the ground surface it's summoned on. Your incarnate can be buffed with Infusions.
+	- Range: 13 meter radius
+	- Costs: 1 [[Action Points (AP)]]
+	- Cooldown: 5-6 on a d6 (or max 5turns)
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Summoning]]
+	  
+	- **Incarnate**:
+		- Duration: 10 turns.
+		- Passives: Is healed by the Elemental [[Damage]] of the surface it was summoned on, as well as immunity to the [[Status Effects]] associated with that surface. Also gains +5 to the associated surface [[Proficiencies]].
+		- [[Action Points (AP)]] per turn: 4
+		- [[Movement]] per [[Action Points (AP)]]: 5 meters
+		- Defences:
+			- [[Vitality (HP)]]: 10 + ([[Proficiencies#Summoning]] * 2)  + Level of the caster.
+			- Armor:  [[Defences#Physical Armor]] and [[Defences#Magic Armor]] are equal to ([[Proficiencies#Summoning]] * 6) + Level of the caster
+			- Resistances: -+3 to Elemmental [[Damage]] of the opposite type it was summoned on.
+		- Skills: 
+			- **Basic Attack**: 2 + ([[Proficiencies#Summoning]] * 2) + [[Proficiencies]] associated with the surface + Level of the Caster. Also sets the [[Status Effects]] associated with  the surface it was summoned on.
+			- **Elemental Skill**: Elemental associated with the surface it was summoned on.
+				- Blood: Mosquito Swarm
+				- Electric: Electric discharge
+				- Fire: Ignition
+				- Oil: Fossil Strike
+				- Poison: Contamination
+				- Water: Restoration
+				  
+- **Dimensional Bolt**: Shoot a volatile bolt that deals your Magic [[Damage]] + Level, of a random [[Damage]] type, and then creates a corresponding surface
+	- [[Damage]] Type: Roll a d6.
+		- 1: Electric
+		- 2: Earth
+		- 3: Fire
+		- 4: Poison
+		- 5: Water
+		- 6: Blood
+	- Sets: [[Status Effects]] associated with the[[Damage type rolled]] for 2 turns.
+	- Range: 13 meter radius. 1 meter radius impact.
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 1 turn
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Summoning]]
+	  
+- **Elemental Totem**: Conjure a personal elemental incarnate, that matches the ground surface it's summoned on. Your incarnate can be buffed with Infusions.
+	- Range: 13 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+	- Cooldown: 1 turn
+	- Requirements: 1 [[Memory Slots]], 1 point in [[Proficiencies#Summoning]]
+	  
+	- **Totem**:
+		- Duration: 3 turns.
+		- Passives: Is healed by the Elemental [[Damage]] of the surface it was summoned on, as well as immunity to the [[Status Effects]] associated with that surface.
+		- [[Action Points (AP)]] per turn: 2
+		- [[Movement]] per [[Action Points (AP)]]: 0 meters
+		- Defences:
+			- [[Vitality (HP)]]: 5 + ([[Proficiencies#Summoning]] * 2)  + Level of the caster.
+			- Armor:  [[Defences#Physical Armor]] and [[Defences#Magic Armor]] are equal to ([[Proficiencies#Summoning]] * 6) + Level of the caster
+			- Resistances: -+3 to Elemmental [[Damage]] of the opposite type it was summoned on.
+		- Skills: 
+			- **Basic Attack**: 2 + ([[Proficiencies#Summoning]] * 2) + [[Proficiencies]] associated with the surface + Level of the Caster. Also sets the [[Status Effects]] associated with  the surface it was summoned on.
+### Common
+- **Basic Attack**: A basic attack that can be performed with your equipped weapons or hands.
+	- Range Melee: 2 meter radius
+	- Range Ranged: 13 meter radius
+	- Costs: 2 [[Action Points (AP)]]
+
