@@ -1,23 +1,43 @@
 Talents are special abilities that can be taken at certain levels.
+___
 - **Telekinesis (1)**: Allows you to move items telepathically regardless of weight.
 	- Range: 8 meters.
 	- Requirements: None
+	  
 - **Telekinesis (2)**: Increases your telepathically ability to move objects.
 	- Range: +8 (16) meters.
 	- Requirements: Telekinesis (1)
+	  
 - **Telekinesis (3)**: Your telepathically ability to move objects reaches its max potential.
 	- Range: +8 (24) meters.
 	- Requirements: Telekinesis (2)
+	  
 - **Pet Pal**: You gain the ability to speak with animals.
 	- Requirements: None
-- **Arrow Recovery**: After firing a special arrow, rol a d6, on a 5-6 roll you recover that arrow.
+	  
+- **Arrow Recovery**: After firing a special arrow, roll a d6, on a 5-6 roll you recover that arrow.
 	- Requirements: None
+	  
 - **Leech**: Heal when standing in blood surfaces. 
 	- Heal Amount: Level + 3
 	- Requirements: None
+	  
 - **Comeback kid**: If an enemy lands a fatal blow you resurrect to Level + 7 [[Vitality (HP)]].
 	- Can only occur once per Combat encounter.
 	- Requirements: None
+	
 - **Executioner**: Gain +2 [[Action Points (AP)]] after delivering the killing blow on target.
 	- Can only occur once per Combat encounter.
 	- Requirements: At least 1 Point in [[Proficiencies#Warfare]]. Can not have The Pawn Talent.
+	  
+- **Opportunist**: Gain the ability to perform attacks of opportunity
+	- Requirements: None
+	  
+- **The Pawn**: Gain 1 Free [[Action Points (AP)]] to move with at start of turn.
+	- Requirements: Can not have Executioner Talent.
+	  
+- **Far Out Man**: Increase the range of [[Skills]] by 2m. Does not affect melee and touch-ranged [[Skills]].
+	- Requirements: None
+	  
+- **Hothead**: While at maximum [[Vitality (HP)]]  gain -5 to [[Hit Ranges & Critical Hits]] and +2 [[Accuracy & Dodge Chance|Accuracy]].
+	- Requirements: None
