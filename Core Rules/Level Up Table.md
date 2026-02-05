@@ -2,7 +2,7 @@ This is a level up table players can use what they gain at each level.
 
 | Level | Experience | Attribute Points | Combat Proficiency Points | Civil Proficiency Points | Talent Points | Base Memory |
 | ----- | ---------- | ---------------- | ------------------------- | ------------------------ | ------------- | ----------- |
-| 1     |            | +9 (9)           | +2 (2)                    | +2 (2)                   | +1 (1)        | 3           |
+| 1     |            | +9 (9)           | +2 (2)                    | +2 (2)                   | +1 (1)        | +3 (3)      |
 | 2     |            | +2 (11)          | +1 (3)                    |                          |               | +1 (4)      |
 | 3     |            | +2 (13)          | +1 (4)                    | +1 (3)                   |               |             |
 | 4     |            | +2 (15)          | +1 (5)                    |                          | +1 (2)        | +1 (5)      |

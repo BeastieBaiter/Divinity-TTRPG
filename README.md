@@ -3,7 +3,7 @@ Divinity is a TTRPG inspired by the games from the Divinity Original Sin Saga.
 ## Core Rules: 
 - ### [[Attributes]]
 - ### Character Statistics:
-	- #### [[Origin]]
+	- #### [[Origins]]
 	- #### [[Damage]]
 	- #### [[Hit Ranges & Critical Hits]]
 	- #### [[Accuracy & Dodge Chance]]
