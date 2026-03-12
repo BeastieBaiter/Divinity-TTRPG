@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37e2809b50a6420c",
+        "id": "8d069cc98377a184",
         "type": "tabs",
         "children": [
           {
-            "id": "2b55dd6af0e8d09f",
+            "id": "dc5ec31b888aa6ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,16 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b55dd6af0e8d09f",
+  "active": "dc5ec31b888aa6ec",
   "lastOpenFiles": [
+    "Core Rules/Level Up Table.md",
+    "Core Rules/Attributes.md",
+    "Core Rules/Character Statistics/Vitality (HP).md",
     "README.md",
     "Core Rules/Character Statistics/Hit Ranges & Critical Hits.md",
     "Core Rules/Character Statistics/Damage.md",
     "Core Rules/Character Statistics/Action Points (AP).md",
     "Core Rules/Character Statistics/Accuracy & Dodge Chance.md",
     "Core Rules/Checks and Saves.md",
-    "Core Rules/Attributes.md",
-    "Core Rules/Character Statistics/Vitality (HP).md",
     "Core Rules/Character Statistics/Memory Slots.md",
     "Core Rules/Character Statistics/Initiative.md",
     "Core Rules/Character Statistics/Defences.md",
@@ -203,7 +204,6 @@
     "Core Rules/Skills.md",
     "Core Rules/Proficiencies.md",
     "Core Rules/Origins.md",
-    "Core Rules/Level Up Table.md",
     "Core Rules/Character Statistics",
     "Core Rules"
   ]
